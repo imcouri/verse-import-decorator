@@ -10,5 +10,4 @@ A VSCode extension that shortens inline import paths in digest files to improve 
 ## Screenshots
 
 ![Before and After](media/ss.png)
-*Before and After: Shows how the extension simplifies import paths*
 
